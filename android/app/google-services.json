@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847433846850",
+    "project_id": "cropsnew-22f87",
+    "storage_bucket": "cropsnew-22f87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847433846850:android:be77d9d841496e5a08dddb",
+        "android_client_info": {
+          "package_name": "com.example.crops"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtryaRg1sBi0T_xleb-_jOOsNlJQ4Ze8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
